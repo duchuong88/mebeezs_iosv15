@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558283991641",
+    "firebase_url": "https://me-be-ezs-default-rtdb.firebaseio.com",
+    "project_id": "me-be-ezs",
+    "storage_bucket": "me-be-ezs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558283991641:android:bed9c079236efaf15c5f48",
+        "android_client_info": {
+          "package_name": "com.mebeezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUXYRM3lVJ_u1RVumU5_832aAplAzzFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
